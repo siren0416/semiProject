@@ -71,8 +71,7 @@
 - Server : Apache Tomcat 9.0.52
 - Language : Java, JSP/Servlet, JavaScript, HTML/CSS
 - Kakao Payment API, Kakao Login API, Google Calendar API
-- 동물보호 관리시스템 Open API - 유기동물 정보 조회
-- 동물보호센터 정보 Open API - 동물보호센터 정보 제공
+- 검색 API : 카카오검색 API
 
 ## Notion Link
 ```
